@@ -7,11 +7,11 @@
 <img src=https://i.ibb.co/TcDLWQg/IMG-20220106-WA0000.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-SHALU-SER/Abu-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-SHALU-SER/Abuser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/Amal-ser">SHALU-SER</a> to make it public
     <br>
        | © |
         Reserved |
